@@ -1,5 +1,4 @@
-# SE_Project_Phase1_Team4
-## Team Name: Team 4
+# Team Name: Team 4
 
 ## Team Leader:
 - **Name:** Dejvi Kocilja
