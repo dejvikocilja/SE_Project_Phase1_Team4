@@ -52,10 +52,10 @@ EasyMart is not just a solution for the present; it's designed with an eye on th
 1. Loard Bejko
 - Develop a maintenance plan and software evolution strategy.
 - Implement the cashier module functionalities, focusing on sales transactions and customer interactions.
-3. Ifigjenia Sopiqoti
+2. Ifigjenia Sopiqoti
 - Facilitate the submission of user requirements and application specifications.
 - Develop the manager module with a focus on inventory management and sales monitoring.  
-5. Keisi Breshanaj
+3. Keisi Breshanaj
 - Work in the description of the software design and modeling.
 - Implement the administrator module functionalities, emphasizing user management and system logs.
 
