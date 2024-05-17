@@ -1,0 +1,12 @@
+              CEN GROUP SHPK 
+       -----------------------   
+   Name                  Quantity  |   Price
+
+   mandarina                  3   |    14.0
+
+       -----------------------   
+   Total Amount                        33.6
+   Discount                             5%
+       -----------------------   
+
+           1/1/2023
